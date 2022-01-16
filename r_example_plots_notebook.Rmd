@@ -44,3 +44,4 @@ plot(x, exp(x), type="l", col="green")
 lines(x, log(x), type="l", col="orange")
 ```
 
+![r_plotting6](https://user-images.githubusercontent.com/96922284/149657713-abeaa7cb-27d7-434d-9b2b-2404231ba59f.PNG)
